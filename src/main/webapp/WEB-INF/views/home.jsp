@@ -8,6 +8,7 @@
 <h1>
 	Hello world!  
 </h1>
+<a href="./fileUpload">upload</a>
 
 <P>  The time on the server is ${serverTime}. </P>
 <h1>Brand: ${car.brand}</h1>
